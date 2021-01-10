@@ -1,6 +1,6 @@
 ## Hi I'm Arjun <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Arjun Sarao a Highschool Student and a Aspiring Machine Learning Engineer. I Spend most of time coding outstanding projects or tinkering with electronics.
+I'm Arjun Sarao a Highschool Student and an aspiring Machine Learning Engineer. I Spend most of time coding outstanding projects or tinkering with electronics.
 
 :mailbox: Reach out to me!
 
