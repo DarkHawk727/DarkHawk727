@@ -3,10 +3,8 @@
 I'm Arjun Sarao a Highschool Student and an aspiring Machine Learning Engineer. I Spend most of time coding outstanding projects or tinkering with electronics.
 
 :mailbox: Reach out to me!
-WORK IN PROGRESS
-<!--[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:arjunsarao727@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Arjun-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/arjun-sarao-bb555b1b4/) [![Mail Badge](https://img.shields.io/badge/-@arjun_sarao-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/arjun_sarao) [![Mail Badge](https://img.shields.io/badge/-arjunsarao727-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:arjunsarao727@gmail.com)
 
-<!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on **Mathaday**.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
