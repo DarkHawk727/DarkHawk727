@@ -12,6 +12,8 @@ I'm Arjun Sarao a Highschool Student and an aspiring Machine Learning Engineer. 
 - 📫 How to reach me: arjunsarao727@gmail.com.
 - ⚡ Fun fact: I'm studying to complete my Tensorflow Developer Certificate.
 
+### Languages
+- (https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
 #### Bizness
 - :paperclip:
 - :email: arjunsarao727@gmail.com
