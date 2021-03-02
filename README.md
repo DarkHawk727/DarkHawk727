@@ -7,7 +7,7 @@ I'm Arjun Sarao a Highschool Student and an aspiring Machine Learning Engineer. 
 
 
 - 🔭 I’m currently working on **Mathaday**.
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code `System.out.println();`
 - 🤔 I’m looking for help with Machine learning Concepts.
 - 📫 How to reach me: arjunsarao727@gmail.com.
 - ⚡ Fun fact: I'm studying to complete my Tensorflow Developer Certificate.
