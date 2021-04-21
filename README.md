@@ -19,7 +19,6 @@ I'm Arjun Sarao a highschool student and an aspiring Machine Learning Engineer. 
 #### Bizness
 - :paperclip: TBA
 - :email: arjunsarao727@gmail.com
-- `</>` https://devpost.com/arjunsarao727?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 
 
 #### Profile Visits 
