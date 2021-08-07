@@ -15,7 +15,6 @@ I'm Arjun Sarao, a highschool student and an aspiring Machine Learning Engineer.
 
 ### Languages and Tools
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkHawk7271&theme=dark)](https://git.io/streak-stats)
 
 #### Bizness
 - :paperclip: TBA
@@ -31,4 +30,5 @@ I'm Arjun Sarao, a highschool student and an aspiring Machine Learning Engineer.
 ![DarkHawk727's github stats](https://github-readme-stats.vercel.app/api?username=darkhawk727&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhawk727&&count_private=true&theme=tokyonight)](https://github.com/DarkHawk727/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkHawk7271&theme=dark)](https://git.io/streak-stats)
 </details>
