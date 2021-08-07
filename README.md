@@ -32,3 +32,6 @@ I'm Arjun Sarao, a highschool student and an aspiring Machine Learning Engineer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhawk727&&count_private=true&theme=tokyonight)](https://github.com/DarkHawk727/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarkHawk727&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkHawk727&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
