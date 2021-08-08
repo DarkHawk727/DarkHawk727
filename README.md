@@ -33,6 +33,6 @@ I'm Arjun Sarao, a highschool student and an aspiring Machine Learning Engineer.
 #### Commit Streak
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarkHawk727&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
  
- [![DarkHawk727's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkHawk727&bg_color=1a1b27&color=38bdae)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![DarkHawk727's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkHawk727&bg_color=1a1b27&color=38bdae&line=70a5fd)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
