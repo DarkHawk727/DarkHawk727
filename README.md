@@ -29,7 +29,7 @@ I'm Arjun Sarao, a highschool student and an aspiring Machine Learning Engineer.
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 #### Bizness
-- :desktop_computer: ![arjunsarao.dev](https://arjunsarao.dev/)
+- :desktop_computer: [arjunsarao.dev](https://arjunsarao.dev/)
 - :email: arjunsarao727@gmail.com
 
 
