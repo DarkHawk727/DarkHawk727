@@ -39,7 +39,7 @@ I'm Arjun Sarao, a highschool student and an aspiring Machine Learning Engineer.
 
 #### Github Stats
 
-![DarkHawk727's github stats](https://github-readme-stats.vercel.app/api?username=darkhawk727&count_private=true&theme=tokyonight&hide=contribs,prs)
+![DarkHawk727's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkhawk727&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhawk727&exclude_repo=CourseraML&count_private=true&theme=tokyonight)](https://github.com/DarkHawk727/github-readme-stats)
 
