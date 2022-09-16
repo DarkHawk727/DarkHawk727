@@ -1,6 +1,6 @@
 ## Hi I'm Arjun <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="12px" alt="hi">
 
-I'm Arjun Sarao, a first year Computer Science Undergraduate at the University of Wateroo and an aspiring Machine Learning Engineer. I spend most of time coding outstanding projects or tinkering with electronics.
+I'm Arjun Sarao, Computer Science student at the University of Waterloo and an aspiring Machine Learning Engineer. I spend most of time coding outstanding projects or tinkering with electronics.
 
 :mailbox: Reach out to me!
 [![Linkedin Badge](https://img.shields.io/badge/-Arjun-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/arjun-sarao-bb555b1b4/) [![Mail Badge](https://img.shields.io/badge/-@arjun_sarao-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/arjun_sarao) [![Mail Badge](https://img.shields.io/badge/-arjunsarao727-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:arjunsarao727@gmail.com)[![](https://img.shields.io/badge/-Devpost-003e54?style=flat-square&logo=Devpost&logoColor=fff)](https://devpost.com/arjunsarao727)
