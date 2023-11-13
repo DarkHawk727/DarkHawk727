@@ -7,7 +7,7 @@ Contact: arjun.sarao@uwaterloo.ca
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue)
 
@@ -91,5 +91,5 @@ Racket                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DarkHawk727/DarkHawk727/master/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2023 00:39:34 UTC
+ Last Updated on 13/11/2023 00:38:11 UTC
 <!--END_SECTION:waka-->
