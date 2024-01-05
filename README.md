@@ -11,10 +11,9 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-Formal-Deduction         5 hrs 6 mins        █████████████████████████   99.97 % 
-LeetCode-Solutions       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Formal-Deduction         2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/01/2024 00:37:40 UTC
+ Last Updated on 05/01/2024 00:37:42 UTC
 <!--END_SECTION:waka-->
