@@ -11,9 +11,9 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-Formal-Deduction         2 hrs 31 mins       █████████████████████████   100.00 % 
+Formal-Deduction         2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/01/2024 00:37:42 UTC
+ Last Updated on 06/01/2024 00:37:11 UTC
 <!--END_SECTION:waka-->
