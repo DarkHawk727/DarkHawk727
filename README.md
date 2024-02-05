@@ -1,5 +1,5 @@
 ```txt
-Languages: Python, C++ (I know other languages but I don't wanna work in them)
+Languages: Python, C++ (I know other languages but I don't wanna work in em)
 Frameworks: PyTorch, sklearn, NumPy, Pandas, Matplotlib
 
 Contact: arjun.sarao@uwaterloo.ca
