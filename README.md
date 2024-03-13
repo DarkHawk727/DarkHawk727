@@ -10,9 +10,9 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-makeCV                   1 hr 20 mins        █████████████████████████   100.00 % 
+makeCV                   2 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/03/2024 00:35:10 UTC
+ Last Updated on 13/03/2024 00:36:04 UTC
 <!--END_SECTION:waka-->
