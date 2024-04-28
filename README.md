@@ -10,9 +10,9 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-cpp_primer               5 hrs 12 mins       █████████████████████████   100.00 % 
+cpp_primer               4 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/04/2024 00:36:45 UTC
+ Last Updated on 28/04/2024 00:40:36 UTC
 <!--END_SECTION:waka-->
