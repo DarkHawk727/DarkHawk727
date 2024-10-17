@@ -10,9 +10,10 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-TabTransformer-tinygrad  1 hr 50 mins        █████████████████████████   100.00 % 
+TabTransformer-tinygrad  1 hr 42 mins        ████████████████████████░   97.93 % 
+jump_rope_counter        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 ```
 
 
- Last Updated on 16/10/2024 00:48:55 UTC
+ Last Updated on 17/10/2024 00:48:19 UTC
 <!--END_SECTION:waka-->
