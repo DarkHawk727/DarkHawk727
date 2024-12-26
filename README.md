@@ -10,9 +10,9 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-Build-a-Large-Language-Mo3 hrs 12 mins       █████████████████████████   100.00 % 
+Build-a-Large-Language-Mo36 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/12/2024 00:48:10 UTC
+ Last Updated on 26/12/2024 00:48:32 UTC
 <!--END_SECTION:waka-->
