@@ -10,10 +10,10 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-Data Structures          2 hrs 10 mins       ███████████████░░░░░░░░░░   59.09 % 
-TabTransformer-tinygrad  1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   40.91 % 
+Data Structures          2 hrs 26 mins       ███████████████░░░░░░░░░░   61.85 % 
+TabTransformer-tinygrad  1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   38.15 % 
 ```
 
 
- Last Updated on 07/03/2025 00:52:16 UTC
+ Last Updated on 08/03/2025 00:40:08 UTC
 <!--END_SECTION:waka-->
