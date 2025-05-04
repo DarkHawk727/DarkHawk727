@@ -10,9 +10,9 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-ansi-c                   29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/05/2025 00:54:15 UTC
+ Last Updated on 04/05/2025 01:01:13 UTC
 <!--END_SECTION:waka-->
