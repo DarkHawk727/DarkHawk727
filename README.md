@@ -10,9 +10,9 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-build-an-LLM-from-scratch7 mins              █████████████████████████   100.00 % 
+build-an-LLM-from-scratch5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/07/2025 01:00:05 UTC
+ Last Updated on 20/07/2025 01:08:14 UTC
 <!--END_SECTION:waka-->
