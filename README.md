@@ -14,5 +14,5 @@ build-an-LLM-from-scratch5 mins              ███████████�
 ```
 
 
- Last Updated on 20/07/2025 01:08:14 UTC
+ Last Updated on 21/07/2025 01:05:55 UTC
 <!--END_SECTION:waka-->
