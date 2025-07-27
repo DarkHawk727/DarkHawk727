@@ -10,9 +10,10 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+build-an-LLM-from-scratch14 mins             ███████████████████████░░   93.51 % 
+vectorstore-from-scratch 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 
 
- Last Updated on 26/07/2025 01:00:30 UTC
+ Last Updated on 27/07/2025 01:08:19 UTC
 <!--END_SECTION:waka-->
