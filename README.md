@@ -10,9 +10,9 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-aoc-2025                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/12/2025 01:08:20 UTC
+ Last Updated on 29/12/2025 01:06:08 UTC
 <!--END_SECTION:waka-->
