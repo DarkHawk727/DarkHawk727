@@ -10,9 +10,10 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-introduction-to-algorithm2 hrs 3 mins        █████████████████████████   100.00 % 
+introduction-to-algorithm1 hr 35 mins        ███████████████░░░░░░░░░░   61.07 % 
+deep-ml                  1 hr                ██████████░░░░░░░░░░░░░░░   38.93 % 
 ```
 
 
- Last Updated on 24/02/2026 01:15:05 UTC
+ Last Updated on 25/02/2026 01:20:09 UTC
 <!--END_SECTION:waka-->
