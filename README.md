@@ -10,10 +10,10 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-deep-ml                  4 hrs 55 mins       █████████████░░░░░░░░░░░░   50.55 % 
-A3                       4 hrs 49 mins       ████████████░░░░░░░░░░░░░   49.45 % 
+A3                       4 hrs 16 mins       █████████████░░░░░░░░░░░░   52.18 % 
+deep-ml                  3 hrs 54 mins       ████████████░░░░░░░░░░░░░   47.82 % 
 ```
 
 
- Last Updated on 04/03/2026 01:13:25 UTC
+ Last Updated on 05/03/2026 01:15:36 UTC
 <!--END_SECTION:waka-->
