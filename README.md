@@ -10,11 +10,10 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-deep-ml                  2 hrs 12 mins       ███████████████████░░░░░░   74.71 % 
-ureter-annotator         44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-ureter-annotation        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+deep-ml                  1 hr 49 mins        ██████████████████░░░░░░░   71.02 % 
+ureter-annotator         44 mins             ███████░░░░░░░░░░░░░░░░░░   28.98 % 
 ```
 
 
- Last Updated on 23/03/2026 01:20:25 UTC
+ Last Updated on 24/03/2026 01:13:35 UTC
 <!--END_SECTION:waka-->
