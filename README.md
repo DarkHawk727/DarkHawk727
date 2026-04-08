@@ -10,13 +10,12 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-Exercises                3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-uroflow                  3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-A5                       3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-castoros                 1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-deep-ml                  1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Exercises                5 hrs 37 mins       ███████████░░░░░░░░░░░░░░   42.22 % 
+uroflow                  3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+A5                       3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+deep-ml                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 ```
 
 
- Last Updated on 07/04/2026 01:26:01 UTC
+ Last Updated on 08/04/2026 01:26:37 UTC
 <!--END_SECTION:waka-->
