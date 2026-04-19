@@ -10,10 +10,11 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-Portfolio-v5             2 hrs 26 mins       ████████████████████████░   97.46 % 
-manwha                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Portfolio-v5             2 hrs 26 mins       █████████████████░░░░░░░░   68.96 % 
+yt-blocker               1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+manwha                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 
 
- Last Updated on 18/04/2026 01:24:42 UTC
+ Last Updated on 19/04/2026 01:49:30 UTC
 <!--END_SECTION:waka-->
