@@ -10,13 +10,13 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-cancer-analysis          5 hrs 57 mins       ███████████░░░░░░░░░░░░░░   42.90 % 
-Writing-a-C-Compiler     4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   30.13 % 
-uroflow                  1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-vectorstore-from-scratch 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Portfolio-v5             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+cancer-analysis          6 hrs 25 mins       ████████████████░░░░░░░░░   65.25 % 
+uroflow                  1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+vectorstore-from-scratch 1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Portfolio-v5             35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Writing-a-C-Compiler     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 
- Last Updated on 02/05/2026 01:54:51 UTC
+ Last Updated on 03/05/2026 01:58:00 UTC
 <!--END_SECTION:waka-->
