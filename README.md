@@ -10,13 +10,13 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-hands-on-ml              2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.27 % 
-uroflow                  1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-portfolio-website        1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-vectorstore-from-scratch 59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Writing-a-C-Compiler     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+hands-on-ml              2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.00 % 
+uroflow                  1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   33.37 % 
+portfolio-website        1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+deep-ml                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+vectorstore-from-scratch 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 
- Last Updated on 11/05/2026 02:10:47 UTC
+ Last Updated on 12/05/2026 02:06:16 UTC
 <!--END_SECTION:waka-->
