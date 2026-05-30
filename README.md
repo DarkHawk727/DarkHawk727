@@ -6,6 +6,14 @@ Contact: arjun.sarao@uwaterloo.ca
 ```
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 29/05/2026 02:13:22 UTC
+```text
+🐱‍💻 Projects: 
+hands-on-ml              35 mins             ███████████████████████░░   91.76 % 
+uroflow                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+```
+
+
+ Last Updated on 30/05/2026 02:09:28 UTC
 <!--END_SECTION:waka-->
