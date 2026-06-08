@@ -10,13 +10,13 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-uroflow                  1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   32.26 % 
-cancer-analysis          58 mins             ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-hutter-prize             39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-hands-on-ml              28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-portfolio-website        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+hutter-prize             39 mins             ███████████░░░░░░░░░░░░░░   43.73 % 
+hands-on-ml              28 mins             ████████░░░░░░░░░░░░░░░░░   32.06 % 
+portfolio-website        11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+cancer-analysis          9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+uroflow                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 
- Last Updated on 07/06/2026 02:38:48 UTC
+ Last Updated on 08/06/2026 02:42:44 UTC
 <!--END_SECTION:waka-->
