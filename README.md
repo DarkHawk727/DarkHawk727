@@ -10,11 +10,9 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-hutter-prize             39 mins             ████████████████████░░░░░   79.57 % 
-cancer-analysis          9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-portfolio-website        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/06/2026 02:09:32 UTC
+ Last Updated on 10/06/2026 02:33:21 UTC
 <!--END_SECTION:waka-->
