@@ -6,13 +6,6 @@ Contact: arjun.sarao@uwaterloo.ca
 ```
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 12/06/2026 02:39:01 UTC
+ Last Updated on 13/06/2026 02:32:05 UTC
 <!--END_SECTION:waka-->
