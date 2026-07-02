@@ -10,11 +10,10 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-build-an-LLM-from-scratch4 hrs 9 mins        ████████████████████░░░░░   79.38 % 
-stricture-reintervention-55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-portfolio-website        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+build-an-LLM-from-scratch4 hrs 30 mins       ██████████████████████░░░   88.37 % 
+stricture-reintervention-35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 ```
 
 
- Last Updated on 01/07/2026 02:36:52 UTC
+ Last Updated on 02/07/2026 02:26:13 UTC
 <!--END_SECTION:waka-->
