@@ -10,13 +10,13 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-cancer-analysis-py       2 hrs 12 mins       ████████████░░░░░░░░░░░░░   46.02 % 
-build-an-LLM-from-scratch1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-stricture-reintervention-35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-portfolio-website        27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-uroflow-2                25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+cancer-analysis-py       1 hr 57 mins        ███████████░░░░░░░░░░░░░░   43.12 % 
+build-an-LLM-from-scratch1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+stricture-reintervention-35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+portfolio-website        27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+uroflow-2                25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 ```
 
 
- Last Updated on 09/07/2026 02:01:06 UTC
+ Last Updated on 10/07/2026 01:59:49 UTC
 <!--END_SECTION:waka-->
