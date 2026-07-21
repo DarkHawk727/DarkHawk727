@@ -10,13 +10,13 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-uroflow-2                1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   39.67 % 
-Information Theory, Infer1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   31.63 % 
-tracing-annotator        49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-event-capturer           28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+uroflow-2                1 hr 53 mins        ███████████████░░░░░░░░░░   58.02 % 
+tracing-annotator        49 mins             ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+event-capturer           28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Information Theory, Infer0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
- Last Updated on 20/07/2026 03:18:31 UTC
+ Last Updated on 21/07/2026 01:47:49 UTC
 <!--END_SECTION:waka-->
