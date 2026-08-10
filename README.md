@@ -6,38 +6,39 @@ Contact: arjun.sarao@uwaterloo.ca
 ```
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2048%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-build-an-LLM-from-scratch47 mins             █████████████████████████   98.24 % 
-chronicle                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+build-an-LLM-from-scratch47 mins             ██████████████████████░░░   89.02 % 
+tracing-annotator        4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+chronicle                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (49.37%)
+⏱ AI Coding Time: 28 mins (54.5%)
 
-✍️ 97 lines written by AI, 2,843 lines written by hand (3.3% AI-written)
+✍️ 290 lines written by AI, 2,843 lines written by hand (9.26% AI-written)
 
-🔤 982,008 Input Tokens, 14,195 Output Tokens
+🔤 1,029,811 Input Tokens, 22,294 Output Tokens
 
-💵 $5.34 Estimated AI Cost This Week
+💵 $6.07 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
-GPT                      97 lines            █████████████████████████   100.00 % 
+GPT                      291 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.3% of written lines came from AI
-📝 Concise Prompter — average 118 characters per prompt
+🧑‍💻 Mostly Hands-On — 9.26% of written lines came from AI
+📝 Concise Prompter — average 96 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 98.23% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.88% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/08/2026 00:58:28 UTC
+ Last Updated on 10/08/2026 01:00:27 UTC
 <!--END_SECTION:waka-->
