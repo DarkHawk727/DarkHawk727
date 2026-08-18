@@ -12,7 +12,7 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+build-an-LLM-from-scratch4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -22,5 +22,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 17/08/2026 00:40:53 UTC
+ Last Updated on 18/08/2026 00:40:04 UTC
 <!--END_SECTION:waka-->
