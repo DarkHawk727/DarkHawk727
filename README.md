@@ -12,8 +12,8 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-psych-256-project-1      9 mins              █████████████████░░░░░░░░   69.79 % 
-build-an-LLM-from-scratch4 mins              ████████░░░░░░░░░░░░░░░░░   30.21 % 
+psych-256-project-1      10 mins             ██████████████████░░░░░░░   71.93 % 
+build-an-LLM-from-scratch4 mins              ███████░░░░░░░░░░░░░░░░░░   28.07 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -23,5 +23,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 20/08/2026 00:40:24 UTC
+ Last Updated on 21/08/2026 00:43:23 UTC
 <!--END_SECTION:waka-->
