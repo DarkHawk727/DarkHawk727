@@ -12,14 +12,14 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-uroflow-2                7 mins              ██████████████░░░░░░░░░░░   57.57 % 
-psych-256-project-1      5 mins              ███████████░░░░░░░░░░░░░░   42.43 % 
+uroflow-2                7 mins              ████████████████░░░░░░░░░   62.97 % 
+psych-256-project-1      4 mins              █████████░░░░░░░░░░░░░░░░   37.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (12.27%)
+⏱ AI Coding Time: 1 min (13.42%)
 
 ✍️ 0 lines written by AI, 38 lines written by hand (0.0% AI-written)
 
@@ -39,5 +39,5 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 27/08/2026 05:50:34 UTC
+ Last Updated on 28/08/2026 08:02:04 UTC
 <!--END_SECTION:waka-->
