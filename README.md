@@ -12,7 +12,7 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-portfolio-website        2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -22,5 +22,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 06/09/2026 01:59:53 UTC
+ Last Updated on 07/09/2026 01:57:22 UTC
 <!--END_SECTION:waka-->
