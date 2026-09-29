@@ -6,38 +6,39 @@ Contact: arjun.sarao@uwaterloo.ca
 ```
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2037%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-uroflow-2                22 mins             █████████████░░░░░░░░░░░░   51.42 % 
-internship-finder        21 mins             ████████████░░░░░░░░░░░░░   48.58 % 
+uroflow-2                24 mins             █████████████░░░░░░░░░░░░   52.75 % 
+internship-finder        21 mins             ████████████░░░░░░░░░░░░░   46.71 % 
+uroflow                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (76.5%)
+⏱ AI Coding Time: 35 mins (77.41%)
 
 ✍️ 1,520 lines written by AI, 63 lines written by hand (96.02% AI-written)
 
-🔤 272,159 Input Tokens, 42,231 Output Tokens
+🔤 275,862 Input Tokens, 42,491 Output Tokens
 
-💵 $3.91 Estimated AI Cost This Week
+💵 $3.95 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
 GPT                      1,521 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.02% of written lines came from AI
-📝 Concise Prompter — average 436 characters per prompt
+📝 Concise Prompter — average 444 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 4.22% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 02:39:35 UTC
+ Last Updated on 29/09/2026 03:21:27 UTC
 <!--END_SECTION:waka-->
