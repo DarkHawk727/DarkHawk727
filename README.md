@@ -12,34 +12,32 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-intro-to-regression-model24 mins             ████████████░░░░░░░░░░░░░   49.15 % 
-internship-finder        23 mins             ████████████░░░░░░░░░░░░░   47.27 % 
-uroflow-2                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-uroflow                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+intro-to-regression-model24 mins             ██████████████████████░░░   86.90 % 
+internship-finder        1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+uroflow-2                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+uroflow                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (27.08%)
+⏱ AI Coding Time: 1 min (6.32%)
 
-✍️ 1,106 lines written by AI, 154 lines written by hand (87.78% AI-written)
+✍️ 0 lines written by AI, 91 lines written by hand (0.0% AI-written)
 
-🔤 67,179 Input Tokens, 27,574 Output Tokens
+🔤 3,703 Input Tokens, 260 Output Tokens
 
-💵 $1.30 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
-
-GPT                      1,107 lines         █████████████████████████   100.00 % 
+🧠 1 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.78% of written lines came from AI
-📄 Detailed Prompter — average 555 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 457 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 14.45% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 03:27:35 UTC
+ Last Updated on 05/10/2026 03:06:05 UTC
 <!--END_SECTION:waka-->
