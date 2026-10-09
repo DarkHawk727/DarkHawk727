@@ -12,8 +12,7 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-intro-to-regression-model24 mins             ███████████████████████░░   92.77 % 
-internship-finder        1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+intro-to-regression-model10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -23,5 +22,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 08/10/2026 03:38:05 UTC
+ Last Updated on 09/10/2026 03:43:30 UTC
 <!--END_SECTION:waka-->
