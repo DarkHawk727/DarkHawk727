@@ -6,39 +6,39 @@ Contact: arjun.sarao@uwaterloo.ca
 ```
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%209%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-build-an-LLM-from-scratch1 hr 41 mins        █████████████████████████   99.10 % 
-uroflow-2                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+build-an-LLM-from-scratch46 mins             ██████████████████░░░░░░░   73.14 % 
+uroflow-2                17 mins             ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (15.84%)
+⏱ AI Coding Time: 16 mins (25.86%)
 
-✍️ 0 lines written by AI, 220,354 lines written by hand (0.0% AI-written)
+✍️ 59 lines written by AI, 100,126 lines written by hand (0.06% AI-written)
 
-🔤 121,274 Input Tokens, 9,121 Output Tokens
+🔤 161,177 Input Tokens, 20,506 Output Tokens
 
-💵 $0.45 Estimated AI Cost This Week
+💵 $0.89 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      59 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 209 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.06% of written lines came from AI
+📚 Verbose Prompter — average 1,804 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 99.95% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/10/2026 02:27:30 UTC
+ Last Updated on 20/10/2026 02:40:19 UTC
 <!--END_SECTION:waka-->
