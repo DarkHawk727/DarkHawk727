@@ -12,33 +12,33 @@ Contact: arjun.sarao@uwaterloo.ca
 
 ```text
 🐱‍💻 Projects: 
-build-an-LLM-from-scratch46 mins             ██████████████████░░░░░░░   73.14 % 
-uroflow-2                17 mins             ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+build-an-LLM-from-scratch46 mins             ███████████████████░░░░░░   74.16 % 
+uroflow-2                16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (25.86%)
+⏱ AI Coding Time: 15 mins (24.84%)
 
 ✍️ 59 lines written by AI, 100,126 lines written by hand (0.06% AI-written)
 
-🔤 161,177 Input Tokens, 20,506 Output Tokens
+🔤 152,827 Input Tokens, 19,774 Output Tokens
 
-💵 $0.89 Estimated AI Cost This Week
+💵 $0.86 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 GPT                      59 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.06% of written lines came from AI
-📚 Verbose Prompter — average 1,804 characters per prompt
+📚 Verbose Prompter — average 2,638 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 99.95% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/10/2026 02:34:23 UTC
+ Last Updated on 22/10/2026 02:31:45 UTC
 <!--END_SECTION:waka-->
